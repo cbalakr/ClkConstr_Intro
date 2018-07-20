@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Wed Apr 18 12:43:08 2018
+# Process ID: 20552
+# Current directory: C:/2018.1/S.P/training/ClkConstr_Intro/lab/KCU105/vhdl/wave_gen.runs/synth_1
+# Command line: vivado.exe -log wave_gen.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source wave_gen.tcl
+# Log file: C:/2018.1/S.P/training/ClkConstr_Intro/lab/KCU105/vhdl/wave_gen.runs/synth_1/wave_gen.vds
+# Journal file: C:/2018.1/S.P/training/ClkConstr_Intro/lab/KCU105/vhdl/wave_gen.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source wave_gen.tcl -notrace
